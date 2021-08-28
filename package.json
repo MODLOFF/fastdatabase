@@ -1,0 +1,24 @@
+{
+  "name": "fastdatabase",
+  "version": "0.0.1",
+  "description": "Database Module",
+  "main": "index.js",
+  "keywords": [
+    "fastdatabase",
+    "modloff",
+    "json",
+    "jsondb",
+    "db",
+    "database"
+  ],
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MODLOFF/fastdatabase.git"
+  },
+  "author": "MODLOFF",
+  "license": "MIT"
+}
